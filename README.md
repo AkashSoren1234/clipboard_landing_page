@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AkashSoren1234/clipboard_landing_page](https://github.com/AkashSoren1234/clipboard_landing_page)
+- Live Site URL: [https://akashsoren1234.github.io/clipboard_landing_page/](https://akashsoren1234.github.io/clipboard_landing_page)
 
 ## My process
 
